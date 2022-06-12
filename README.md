@@ -1,7 +1,7 @@
-#Taller de maquetación
+# Taller de maquetación
 
 Repositorio del proyecto de maquetación de @jonmircha en YouTube.
 
-##Proyectos
+## Proyectos
 
-- [Landing Page de tipo Portafolio-CV](https://github.com/haelorm/proyecto-landing-page/portafolio-cv)
+- [Landing Page de tipo Portafolio-CV](https://haelorm.github.io/proyecto-landing-page/portafolio-cv)
